@@ -64,6 +64,18 @@ Your browser will open a local page (usually at [http://localhost:8501](http://l
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="Images/Image1.png" alt="Visualizer example 1" width="500"/>
+</p>
+
+<p align="center">
+  <img src="Images/Image2.png" alt="Visualizer example 2" width="500"/>
+</p>
+
+---
+
 ## Notes
 
 * Order of transforms matters: adding a rotation before a scale is not the same as scaling before rotating.
