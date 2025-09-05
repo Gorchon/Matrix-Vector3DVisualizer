@@ -8,8 +8,7 @@ Run locally:
   1) pip install streamlit numpy plotly
   2) streamlit run matrix3d_app.py
 
-Author: (you)
-License: MIT
+Author: Chema
 """
 from __future__ import annotations
 
